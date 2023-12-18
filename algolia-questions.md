@@ -18,7 +18,7 @@ Hi George,
 
 I hope this email finds you well. Welcome aboard, and thank you for reaching out! I'm excited to assist you in your onboarding process with Algolia. Let me provide you with some definitions for the concepts you mentioned:
 
-Records:
+-- Records:
 
 In the context of Algolia, a "record" refers to a single piece of data that you want to make searchable. For example, in an e-commerce setting, each product in your catalog would be a record. Each record typically contains various attributes such as product name, description, price, etc.
 
