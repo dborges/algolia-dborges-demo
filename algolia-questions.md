@@ -96,26 +96,26 @@ Create an Algolia Account:
 
 If you haven't already, sign up for an Algolia account at Algolia Dashboard.
 
-1. Set Up an Index:
+- Set Up an Index:
 
 Create an index for the data you want to search. This could be products, articles, or any other content on your website.
 
-2. Index Your Data:
+- Index Your Data:
 
 Index your data using Algolia's API or one of the SDKs available for your preferred programming language.
 
-3. Implement Search Interface:
+- Implement Search Interface:
 
 Add the Algolia SearchBox widget to your website's search bar, and configure the Hits widget to display search results.
 Customize as Needed:
 
 Algolia provides a range of widgets for facets, filters, and more. Customize the search experience based on your requirements.
 
-4. Integrate InstantSearch:
+- Integrate InstantSearch:
 
 If you want a more dynamic search experience, consider using Algolia's InstantSearch library.
 
-5. Optimize and Iterate:
+- Optimize and Iterate:
 
 Use Algolia's dashboard to monitor search analytics, and iterate on your implementation as needed.
 The actual development work can be as simple or as advanced as you choose. Algolia's documentation and support resources are available to assist you at every step. If you have any specific questions or need guidance on your integration, feel free to ask.
