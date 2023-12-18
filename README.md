@@ -8,9 +8,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -27,7 +24,7 @@ The main wrapper component that initializes the InstantSearch functionality.
 
  - SearchBox
 
-A search input box that allows users to enter their search queries.
+    A search input box that allows users to enter their search queries.
 
  - Hits
 
@@ -44,10 +41,6 @@ Provides a list of refinement options to filter search results.
  - Pagination
 
 Enables users to navigate through different pages of search results.
-
- - PoweredBy
-
-Displays Algolia's "Powered by Algolia" logo.
 
  - CurrentRefinements
 
