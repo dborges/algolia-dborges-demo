@@ -1,6 +1,5 @@
-# Project Title
+# Algolia InstantSearch Dashboard
 
-A brief description of your project.
 
 ## Table of Contents
 
@@ -15,15 +14,48 @@ A brief description of your project.
 
 ## Introduction
 
-Provide a brief introduction to your project, explaining its purpose and key features.
+This repository demonstrates the usage of Algolia's InstantSearch Dashboard, showcasing various widgets to create a powerful and customizable search experience.
+
 
 ## Features
 
-List the main features or functionalities of your project.
+Widgets Used
 
-- Feature 1
-- Feature 2
-- Feature 3
+ - InstantSearch
+
+The main wrapper component that initializes the InstantSearch functionality.
+
+ - SearchBox
+
+A search input box that allows users to enter their search queries.
+
+ - Hits
+
+Displays search results in a list.
+
+ - Highlight
+
+Highlights the matching terms in the search results.
+
+ - RefinementList
+
+Provides a list of refinement options to filter search results.
+
+ - Pagination
+
+Enables users to navigate through different pages of search results.
+
+ - PoweredBy
+
+Displays Algolia's "Powered by Algolia" logo.
+
+ - CurrentRefinements
+
+Shows the currently applied refinements.
+
+ - HitsPerPage
+
+Allows users to change the number of hits displayed per page.
 
 ## Getting Started
 
