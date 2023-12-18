@@ -20,19 +20,24 @@ Widgets Used
 
  - InstantSearch
 
-        The main wrapper component that initializes the InstantSearch functionality. Added insights to send back events to algolia.
+        The main wrapper component that initializes the InstantSearch functionality. 
+        Added insights to send back events to algolia.
 
  - SearchBox
 
-        A search input box that allows users to enter their search queries. Set autofocus and placeholder.
+        A search input box that allows users to enter their search queries. 
+        Set autofocus and placeholder.
 
  - CurrentRefinements
 
-        When using the RefinementList added ability to show current refinements if you wanted to remove refinement filtering.      
+        When using the RefinementList added ability to show current 
+        refinements if you wanted to remove refinement filtering.      
 
  - Hits
 
-        Displays search results in a list. The Hit function was modified to send an OnClick event for One-Click Purchasing for conversion data.
+        Displays search results in a list. 
+        The Hit function was modified to send an OnClick event 
+        for One-Click Purchasing for conversion data.
 
  - Highlight
 
@@ -40,7 +45,8 @@ Widgets Used
 
  - RefinementList
 
-        Refinement was added to the "brand" attribute (modification of the algolia dashboard facet was necessary)
+        Refinement was added to the "brand" attribute 
+        (modification of the algolia dashboard facet was necessary)
 
  - Pagination
 
@@ -52,7 +58,8 @@ Widgets Used
 
  - HitsPerPage
 
-        Allows users to change the number of hits displayed per page.  The options are 6 or 12 considering the grid is set to display 3 items per row.
+        Allows users to change the number of hits displayed per page.  
+        The options are 6 or 12 considering the grid is set to display 3 items per row.
 
  - Tailwind
 
