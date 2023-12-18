@@ -7,7 +7,6 @@ import {
   Highlight,
   RefinementList,
   Pagination,
-  PoweredBy,
   CurrentRefinements,
   HitsPerPage,
 } from "react-instantsearch";
