@@ -1,4 +1,6 @@
 
+# Algolia Questions and Answers
+
 
 ## Question 1:
 
