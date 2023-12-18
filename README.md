@@ -1,4 +1,4 @@
-# Algolia InstantSearch Dashboard
+# Algolia InstantSearch Take Home Demo
 
 
 ## Table of Contents
