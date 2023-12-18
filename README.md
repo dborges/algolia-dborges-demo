@@ -8,6 +8,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Github Pages Live](#gh-pages)
 
 ## Introduction
 
@@ -80,3 +81,7 @@ Widgets Used
 
    ```bash
    git clone https://github.com/dborges/algolia-dborges-demo.git
+
+### Github Pages Live 
+
+       - https://dborges.github.io/algolia-dborges-demo
