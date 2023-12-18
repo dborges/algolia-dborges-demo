@@ -10,7 +10,7 @@ I'm also struggling with understanding what types of metrics would be useful to 
 
 Cheers, George
 
-# Answer 1:
+## Answer 1:
 
 Subject: Assistance with Search Engine Concepts and Custom Ranking
 
@@ -59,7 +59,7 @@ Sorry to give you the kind of feedback that I know you do not want to hear, but 
 
 Regards, Matt
 
-# Answer 2:
+## Answer 2:
 
 Subject: Feedback on New Dashboard Design
 
@@ -84,7 +84,7 @@ I'm looking to integrate Algolia in my website. Will this be a lot of developmen
 
 Regards, Leo
 
-# Answer 3:
+## Answer 3:
 
 Subject: Getting Started with Algolia Integration
 
@@ -96,26 +96,26 @@ Create an Algolia Account:
 
 If you haven't already, sign up for an Algolia account at Algolia Dashboard.
 
-Set Up an Index:
+1. Set Up an Index:
 
 Create an index for the data you want to search. This could be products, articles, or any other content on your website.
 
-Index Your Data:
+2. Index Your Data:
 
 Index your data using Algolia's API or one of the SDKs available for your preferred programming language.
 
-Implement Search Interface:
+3. Implement Search Interface:
 
 Add the Algolia SearchBox widget to your website's search bar, and configure the Hits widget to display search results.
 Customize as Needed:
 
 Algolia provides a range of widgets for facets, filters, and more. Customize the search experience based on your requirements.
 
-Integrate InstantSearch:
+4. Integrate InstantSearch:
 
 If you want a more dynamic search experience, consider using Algolia's InstantSearch library.
 
-Optimize and Iterate:
+5. Optimize and Iterate:
 
 Use Algolia's dashboard to monitor search analytics, and iterate on your implementation as needed.
 The actual development work can be as simple or as advanced as you choose. Algolia's documentation and support resources are available to assist you at every step. If you have any specific questions or need guidance on your integration, feel free to ask.
