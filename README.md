@@ -61,16 +61,13 @@ Allows users to change the number of hits displayed per page.
 
 ### Prerequisites
 
-Describe any prerequisites that users need to have installed before they can use your project.
-
-- Prerequisite 1
-- Prerequisite 2
+- algoliasearch
+- react-instantsearch
 
 ### Installation
 
-Provide step-by-step instructions on how to install and set up your project.
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/dborges/algolia-dborges-demo.git
