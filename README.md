@@ -84,4 +84,4 @@ Widgets Used
 
 ### Github Pages Live 
 
-       - https://dborges.github.io/algolia-dborges-demo
+       https://dborges.github.io/algolia-dborges-demo
