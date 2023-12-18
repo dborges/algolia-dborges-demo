@@ -60,9 +60,7 @@ function App() {
       <div className="flex flex-col w-full">
         <h1 className="text-3xl font-bold px-4 pt-4">Borges Technologies</h1>
         <div className="flex flex-col space-y-2 p-4">
-          <SearchBox autoFocus={true} placeholder="Product Search">
-            <PoweredBy />
-          </SearchBox>
+          <SearchBox autoFocus={true} placeholder="Product Search" />
           <CurrentRefinements />
         </div>
         <div className="flex flex-row p-4 space-x-4 w-full">
