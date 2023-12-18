@@ -18,21 +18,21 @@ Hi George,
 
 I hope this email finds you well. Welcome aboard, and thank you for reaching out! I'm excited to assist you in your onboarding process with Algolia. Let me provide you with some definitions for the concepts you mentioned:
 
--- Records:
+- Records:
 
 In the context of Algolia, a "record" refers to a single piece of data that you want to make searchable. For example, in an e-commerce setting, each product in your catalog would be a record. Each record typically contains various attributes such as product name, description, price, etc.
 
-Indexing:
+- Indexing:
 
 "Indexing" is the process of adding your records to Algolia's search index. The index is what makes your data searchable. During indexing, Algolia processes and structures your data for efficient and fast searching.
 
 As for "Custom Ranking," this is a powerful feature in Algolia that allows you to define how search results should be ranked based on your specific criteria. Here are some types of metrics you might consider for custom ranking:
 
-Relevance Score:
+- Relevance Score:
 
 Algolia automatically calculates a relevance score for each search result based on factors like text match, attribute weighting, and proximity. You can use this score for custom ranking.
 
-Popularity:
+- Popularity:
 
 If certain records are more popular or frequently clicked by users, you might want to boost their ranking.
 Promotions:
