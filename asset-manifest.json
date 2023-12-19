@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algolia-dborges-demo/static/css/main.7bb83b1b.css",
+    "main.js": "/algolia-dborges-demo/static/js/main.59d77f0d.js",
+    "static/js/787.187d6eb3.chunk.js": "/algolia-dborges-demo/static/js/787.187d6eb3.chunk.js",
+    "index.html": "/algolia-dborges-demo/index.html",
+    "main.7bb83b1b.css.map": "/algolia-dborges-demo/static/css/main.7bb83b1b.css.map",
+    "main.59d77f0d.js.map": "/algolia-dborges-demo/static/js/main.59d77f0d.js.map",
+    "787.187d6eb3.chunk.js.map": "/algolia-dborges-demo/static/js/787.187d6eb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb83b1b.css",
+    "static/js/main.59d77f0d.js"
+  ]
+}
